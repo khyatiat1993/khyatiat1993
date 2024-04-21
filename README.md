@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khyati
 - 👀 I’m interested in Coding | Designing | Bug/Problem Solving
-- 🌱 I’m currently learning WebPage Designing
+- 🌱 I’m currently learning DSA | Query Optimisation | System Design
 - 💞️ I’m looking to collaborate on Tech Podcast Session | Coding Hackathons | Anything Related to Art | Coding | Desining | Solving Problems
 - 📫 How to reach me? Send me a quote at khyatiat1993@gmail.com
 
